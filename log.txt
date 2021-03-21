@@ -1,0 +1,3 @@
+https://www.youtube.com/watch?v=P2TcQ3h0ipQ
+11/02/2021 - 10:32 of video
+15/02/2021 - finished part 6. Debugging highlighted lack of understanding of us of ; in js
